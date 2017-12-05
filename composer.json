@@ -1,0 +1,21 @@
+{
+    "name": "sunny/sunny-swoole",
+    "description": "基于Composer的Swoole，适用于TP5等支持Compos的框架等等",
+    "keywords": ["ThinkPHP5","Swoole","TP5-Swoole"],
+    "homepage":"https://www.sunnyos.com",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sphynx",
+            "email": "327388905@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Sunny\\Swoole\\":"src/Swoole"
+        }
+    }
+}
