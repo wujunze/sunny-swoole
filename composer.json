@@ -1,5 +1,5 @@
 {
-    "name": "sunny/sunny-swoole",
+    "name": "sunnyos/sunny-swoole",
     "description": "基于Composer的Swoole，适用于TP5等支持Compos的框架等等",
     "keywords": ["ThinkPHP5","Swoole","TP5-Swoole"],
     "homepage":"https://www.sunnyos.com",
