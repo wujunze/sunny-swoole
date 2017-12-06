@@ -1,3 +1,4 @@
 <?php
 require './vendor/autoload.php';
-$server = new Sunny\Swoole\Server();
+$server = Sunny\Swoole\Server::getInstance();
+
