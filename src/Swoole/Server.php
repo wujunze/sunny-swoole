@@ -6,7 +6,7 @@ class Server {
     protected $isStart = 0;
 
     /*
-     * 单利模式
+     * 单例模式
      * @return Object Server
      */
     static function getInstance(){
